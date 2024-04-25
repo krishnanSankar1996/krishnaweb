@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns 
 
-st.title("Sales KPI Dashboard with nice charts")
+st.title("Krishna KPI Dashboard we app")
 
 st.markdown('## Key Metrics')
 
